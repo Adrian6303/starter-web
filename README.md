@@ -1,5 +1,4 @@
 # Start web Project
-
 This is a simple webste
 Enjoy
 Salut de pe myfeaature
@@ -7,6 +6,7 @@ Salut de pe myfeaature
 dssadasda
 sadasdasda
 ## Purpose
+Fix
 sadsadasdsadasdasdasdas
 ## How to Contribute
 sdasasdadasda
