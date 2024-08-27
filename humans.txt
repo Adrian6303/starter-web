@@ -5,7 +5,7 @@
    Adrian
 
 # THANKS
-
+ Thaks to all
     <name>
 
 # TECHNOLOGY COLOPHON
