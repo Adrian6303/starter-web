@@ -5,6 +5,7 @@
    Adrian
    Andrea
    Dragos
+   Serpe
 # THANKS
  Thaks to all
     <name>
