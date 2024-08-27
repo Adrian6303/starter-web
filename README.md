@@ -1,6 +1,6 @@
 # Start web Project
 This is a simple webste
-Enjoy
+Enjoy very much
 ## Introduction
 dssadasda
 sadasdasda
@@ -12,3 +12,5 @@ sdasasdadasda
 Altceva
 ## Copyright
 Ceva nou
+Si inca ceva
+
